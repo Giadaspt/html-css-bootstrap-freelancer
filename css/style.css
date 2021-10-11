@@ -1,17 +1,13 @@
 
 .gs-box-1 {
-  height: 200px;
+  height: 200px; /* questa poi andrà tolta */
 }
 
-.gs-box-1 {
-  height: 200px;
+.gs-box-2 {
+  height: 300px; /* questa poi andrà tolta */
 }
 
-.gs-box-1 {
-  height: 200px;
-}
 
-.gs-box-1 {
-  height: 200px;
+.divide {
+  height: 100px;
 }
-
