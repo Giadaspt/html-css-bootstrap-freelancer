@@ -1,3 +1,45 @@
+header {
+  height: 60px;
+  background-color: rgb(44,62,80);
+}
+
+.navbar a {
+  color: white !important ;
+}
+
+.hamburger {
+  color: white !important;
+  border: 1px solid rgba(177,181,186, .5) !important;
+}
+
+.capital {
+  text-transform: uppercase;
+  font-weight: 600;
+}
+
+.gs-jumbo {
+  background-color: rgb(26,188,156);
+  color: white;
+  padding-top: 80px;
+}
+
+
+h1, .job, .logo {
+  text-transform: uppercase;
+}
+
+.job {
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.avatar {
+  width: 60%;
+}
+
+.avatar img {
+  text-align: center;
+}
 
 .gs-box-1 {
   height: 200px; /* questa poi andrà tolta */
@@ -6,7 +48,6 @@
 .gs-box-2 {
   height: 300px; /* questa poi andrà tolta */
 }
-
 
 .divide {
   height: 100px;
