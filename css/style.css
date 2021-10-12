@@ -42,4 +42,23 @@ header {
   border-radius: 10px;
 }
 
+.gs-container-70 {
+  width: 70%;
+  margin: 0 auto;
+}
+
+.gs-bg-about {
+  color: white;
+  background-color: rgb(26,188,156);
+}
+
+.gs-btn-outline {
+  color: white;
+  border: 1px solid white;
+}
+
+.gs-btn-outline:hover {
+  color: black;
+  background-color: white;
+}
 
