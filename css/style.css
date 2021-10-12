@@ -62,3 +62,18 @@ header {
   background-color: white;
 }
 
+.gs-form {
+  border-top: 0;
+  border-right: 0;
+  border-left: 0;
+}
+
+.gs-btn-bg {
+  color: white;
+  background-color: rgb(26,188,156);
+}
+
+.gs-btn-bg:hover {
+  color: white;
+  opacity: .5;
+}
