@@ -8,7 +8,6 @@ header {
 }
 
 .hamburger {
-  color: white !important;
   border: 1px solid rgba(177,181,186, .5) !important;
 }
 
@@ -23,32 +22,25 @@ header {
   padding-top: 80px;
 }
 
-
-h1, .job, .logo {
-  text-transform: uppercase;
-}
-
 .job {
   font-size: 18px;
   font-weight: 600;
 }
 
-.avatar {
-  width: 60%;
+.stella /*questa andrà tolta*/ {
+  width: 200px; 
+  margin: 0 auto;
 }
 
-.avatar img {
-  text-align: center;
+
+.gs-container-80 {
+  width: 80%;
+  margin: 0 auto;
 }
 
-.gs-box-1 {
-  height: 200px; /* questa poi andrà tolta */
+.gs-box img {
+  width: 100%;
+  border-radius: 10px;
 }
 
-.gs-box-2 {
-  height: 300px; /* questa poi andrà tolta */
-}
 
-.divide {
-  height: 100px;
-}
