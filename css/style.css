@@ -19,8 +19,8 @@ header {
   border: 1px solid rgba(177,181,186, .5) !important;
 }
 
-.hamburger span {
-  color: white !important;
+.hamburger-icon {
+  filter: invert(1);
 }
 
 /* jumbotrone */
@@ -83,10 +83,6 @@ header {
 }
 
 .plus i{
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
   color: rgba(255, 255, 255, .7);
   font-size: 100px;
 }
